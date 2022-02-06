@@ -1,2 +1,2 @@
 # studious-parakeet
-studious-parakeet
+This is my first code repository
